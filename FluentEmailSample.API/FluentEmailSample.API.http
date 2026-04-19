@@ -1,0 +1,6 @@
+@FluentEmailSample.API_HostAddress = http://localhost:5274
+
+GET {{FluentEmailSample.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
